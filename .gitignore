@@ -4,3 +4,6 @@ __pycache__/
 venv/
 monu/
 .DS_Store
+
+# data 폴더 내 모든 파일을 제외
+data/
